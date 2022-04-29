@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cash
+comment1.params=
+comment1.target=Cash()
+comment2.params=
+comment2.target=double\ getBalance()
+comment3.params=total
+comment3.target=void\ makePayment(double)
+comment4.params=total
+comment4.target=boolean\ validateCash(double)
+comment5.params=total
+comment5.target=double\ calcBalance(double)
+comment6.params=
+comment6.target=void\ dispBalance()
+numComments=7

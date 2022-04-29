@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Petrol
+comment1.params=
+comment1.target=Petrol()
+comment10.params=
+comment10.target=java.lang.String\ receiptToString()
+comment11.params=paymentAmount
+comment11.target=double\ calcPetrolVolume(double)
+comment2.params=petrolName\ pricePerLitre
+comment2.target=Petrol(java.lang.String,\ double)
+comment3.params=name
+comment3.target=void\ setPetrolName(java.lang.String)
+comment4.params=price
+comment4.target=void\ setPricePerLitre(double)
+comment5.params=volume
+comment5.target=void\ setPetrolVolume(double)
+comment6.params=
+comment6.target=java.lang.String\ getPetrolName()
+comment7.params=
+comment7.target=double\ getPricePerLitre()
+comment8.params=
+comment8.target=double\ getPetrolVolume()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=12

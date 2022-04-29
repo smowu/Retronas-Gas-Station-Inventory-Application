@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FileHandler
+comment1.params=category
+comment1.target=java.lang.String\ getFilepath(int)
+comment2.params=
+comment2.target=java.util.ArrayList\ readPetrolList()
+comment3.params=
+comment3.target=java.util.ArrayList\ readRequestLogs()
+comment4.params=req
+comment4.target=void\ writeRequestLogs(Request)
+comment5.params=
+comment5.target=java.util.ArrayList\ readEmployeeList()
+comment6.params=
+comment6.target=java.util.ArrayList\ getManagerList()
+numComments=7
